@@ -28,5 +28,5 @@ para pogramar suelo utilizar *`visual studio code`*
 
 - [x] Configurar el entorno local en Ubuntu Linux
 - [x] Publicar el perfil profesional en GitHub usando Markdown
-- [] Crear una API RESTful con autenticación de usuarios
-- [] Finalizar y defender el Proyecto Final del Ciclo (PFC)
+- [ ] Crear una API RESTful con autenticación de usuarios
+- [ ] Finalizar y defender el Proyecto Final del Ciclo (PFC)
