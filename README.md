@@ -31,8 +31,8 @@ para pogramar suelo utilizar *`visual studio code`*
 - [ ] Aprobar todo el modulo de DAW
 - [ ] Finalizar el Proyecto final del ciclo
       
-# 🚀 | Proyectos Destacados |
-# 💻 | Snippet de Código Destacado |
+# 🗃️​ | Proyectos Destacados |
+# 📓​ | Snippet de Código Destacado |
 
 
 
