@@ -26,7 +26,7 @@ para pogramar suelo utilizar *`visual studio code`*
 
 ## Estado de metas del ciclo DAW:
 
-- [x]Configurar el entorno local en Ubuntu Linux
-- [x]Publicar el perfil profesional en GitHub usando Markdown
-- []Crear una API RESTful con autenticación de usuarios
-- []Finalizar y defender el Proyecto Final del Ciclo (PFC)
+- [x] Configurar el entorno local en Ubuntu Linux
+- [x] Publicar el perfil profesional en GitHub usando Markdown
+- [] Crear una API RESTful con autenticación de usuarios
+- [] Finalizar y defender el Proyecto Final del Ciclo (PFC)
