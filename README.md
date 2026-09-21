@@ -20,6 +20,6 @@ para pogramar suelo utilizar *`visual studio code`*
 
 # 📖​ | Plan de Aprendizaje y Objetivos |
 
-- Dominar las bases de HTML5 y JavaScript. 
+- Dominar las bases de JavaScript. 
 - Aprender la gestión avanzada de en Git y GitHub.
 - Desplegar mi primera aplicación Fullstack en producción.
