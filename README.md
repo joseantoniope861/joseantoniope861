@@ -32,9 +32,22 @@ para pogramar suelo utilizar *`visual studio code`*
 - [ ] Finalizar el Proyecto final del ciclo
       
 # 🗃️​ | Proyectos Destacados |
+
+
 # 📓​ | Snippet de Código Destacado |
+```
+// Función para validar el acceso de un alumno al módulo de DAW
+function validarAcceso(usuario) {
+  const { nombre, rol, modulo } = usuario;
+  
+  if (rol === "Estudiante" && modulo === "DAW") {
+    return `¡Bienvenido/a, ${nombre}! Acceso concedido al aula.`;
+  }
+  return "Acceso denegado.";
+}
 
-
+console.log(validarAcceso({ nombre: "Laura", rol: "Estudiante", modulo: "DAW" }));
+```
 
 # 📃​ | Contactos y Redes |
  
