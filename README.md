@@ -33,6 +33,10 @@ para pogramar suelo utilizar *`visual studio code`*
       
 # 🗃️​ | Proyectos Destacados |
 
+| Modulo | Practica | Entrega |
+| :--- | :--- | :--- |
+| **Despliegue de Aplicaciones Web** | Perfil Profesional en GitHub (README.md) | Completada |
+| **Desarrollo Entorno Cliente** | Lógica de validación con JavaScript | Pendiente |
 
 # 📓​ | Snippet de Código Destacado |
 
