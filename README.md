@@ -14,8 +14,8 @@ para pogramar suelo utilizar *`visual studio code`*
 
 ## Mis áreas de interés principales:
 
-Diseño web y Creacion de juegos en web.
-crear un enetorno de ia local.
-Gestión de repositorios y flujos de trabajo con Git.
+- Diseño web y Creacion de juegos en web.
+- crear un enetorno de ia local.
+- Gestión de repositorios y flujos de trabajo con Git.
 
 # 📖​ | Plan de Aprendizaje y Objetivos |
