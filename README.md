@@ -6,4 +6,4 @@ Ahora mismo me encuentro haciendo el curso de **Desarrollo de Aplicaciones Web**
 
 para pogramar suelo utilizar *`visual studio code`*
 
-#Tecnologias y herramientas
+# Tecnologias y herramientas
