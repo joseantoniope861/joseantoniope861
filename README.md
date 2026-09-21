@@ -11,3 +11,11 @@ para pogramar suelo utilizar *`visual studio code`*
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Mis áreas de interés principales:
+
+Diseño web y Creacion de juegos en web.
+crear un enetorno de ia local.
+Gestión de repositorios y flujos de trabajo con Git.
+
+# 📖​ | Plan de Aprendizaje y Objetivos|
