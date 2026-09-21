@@ -35,7 +35,9 @@ para pogramar suelo utilizar *`visual studio code`*
 
 
 # 📓​ | Snippet de Código Destacado |
-```
+
+```markdown
+```javascript
 // Función para validar el acceso de un alumno al módulo de DAW
 function validarAcceso(usuario) {
   const { nombre, rol, modulo } = usuario;
