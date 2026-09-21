@@ -9,5 +9,5 @@ para pogramar suelo utilizar *`visual studio code`*
 # 🖥️ |Tecnologias y Herramientas|
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PYTHON](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.campus2b.com%2Fcourse-category%2Fprogramacion-catalogo-general%2F&opi=89978449)
+![PYTHON](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.printables.com%2Fmodel%2F365128-python-logo%3Flang%3Des&opi=89978449)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
