@@ -18,4 +18,4 @@ Diseño web y Creacion de juegos en web.
 crear un enetorno de ia local.
 Gestión de repositorios y flujos de trabajo con Git.
 
-# 📖​ | Plan de Aprendizaje y Objetivos|
+# 📖​ | Plan de Aprendizaje y Objetivos |
