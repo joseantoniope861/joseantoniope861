@@ -23,3 +23,10 @@ para pogramar suelo utilizar *`visual studio code`*
 - Dominar las bases de JavaScript. 
 - Aprender la gestión avanzada de en Git y GitHub.
 - Desplegar mi primera aplicación Fullstack en producción.
+
+## Estado de metas del ciclo DAW:
+
+- [x]Configurar el entorno local en Ubuntu Linux
+- [x]Publicar el perfil profesional en GitHub usando Markdown
+- []Crear una API RESTful con autenticación de usuarios
+- []Finalizar y defender el Proyecto Final del Ciclo (PFC)
