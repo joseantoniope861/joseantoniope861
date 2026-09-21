@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hola soy Jose Antonio Pérez Lidueña 
+## Soy Un Estudiante De Desarrollo Web
 
 <!--
 **joseantoniope861/joseantoniope861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
