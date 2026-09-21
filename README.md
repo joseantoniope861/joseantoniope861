@@ -19,3 +19,7 @@ para pogramar suelo utilizar *`visual studio code`*
 - Gestión de repositorios y flujos de trabajo con Git.
 
 # 📖​ | Plan de Aprendizaje y Objetivos |
+
+- Dominar las bases de HTML5 y JavaScript. 
+- Aprender la gestión avanzada de en Git y GitHub.
+- Desplegar mi primera aplicación Fullstack en producción.
