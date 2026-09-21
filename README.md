@@ -8,4 +8,4 @@ para pogramar suelo utilizar *`visual studio code`*
 
 # 🖥️ |Tecnologias y Herramientas|
 
-![Html5]([https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.manualweb.net%2Fhtml5%2Fintroduccion-html5%2F&opi=89978449](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz4wR7Ta1AqCh_MfYa-KV6ZQMA51cvn3YZhZAovELvdYWZ6rIzad-M78&s=10))
+![Html5]([<img width="88" height="28" alt="imagen" src="https://github.com/user-attachments/assets/8cb3e1be-1a13-4d78-ba0d-3ac4fbb8f199" />)
