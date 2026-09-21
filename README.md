@@ -30,3 +30,8 @@ para pogramar suelo utilizar *`visual studio code`*
 - [x] Publicar el perfil en GitHub con Markdown
 - [ ] Aprobar todo el modulo de DAW
 - [ ] Finalizar el Proyecto final del ciclo
+
+# 📃​ | Contactos y Redes |
+ 
+ - 🅾 **Instagram:** Joseantoniope861
+ - 📩 **Correo Institucional:** Jperlid2007@g.educaand.es
