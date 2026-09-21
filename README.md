@@ -30,6 +30,11 @@ para pogramar suelo utilizar *`visual studio code`*
 - [x] Publicar el perfil en GitHub con Markdown
 - [ ] Aprobar todo el modulo de DAW
 - [ ] Finalizar el Proyecto final del ciclo
+      
+# 🚀 | Proyectos Destacados |
+# 💻 | Snippet de Código Destacado |
+
+
 
 # 📃​ | Contactos y Redes |
  
